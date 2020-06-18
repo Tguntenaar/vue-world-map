@@ -127,7 +127,7 @@ export default {
 
 <style>
 .vue-world-map {
-  height: 98vh;
+  height: 97vh;
   margin-left: auto;
   margin-right: auto;
 }
