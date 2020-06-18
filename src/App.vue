@@ -127,10 +127,14 @@ export default {
 
 <style>
 .vue-world-map {
-  height: 100%;
+  height: 98vh;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #map-svg {
-  height: 100%;
+  height: 98vh;
+  margin-left: auto;
+  margin-right: auto;
 }
 </style>
